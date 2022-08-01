@@ -150,6 +150,20 @@ $string = "Tohami back end devoloper";
 
 
 
+/*************************************************************************************/
+
+
+/*************** str_split => to cut your string and make it as array elments*/
+/*************** strpos => to search about possion element in string*/
+
+
+
+//print_r(str_split($string, '3'));
+ //Array ( [0] => Toh [1] => ami [2] => ba [3] => ck [4] => end [5] => de [6] => vol [7] => ope [8] => r )
+
+echo strpos("toham",'h');
+
+
 
 
 
